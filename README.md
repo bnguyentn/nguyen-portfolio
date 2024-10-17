@@ -1,1 +1,6 @@
-# nguyen-portfolio
+# Data Analyt
+
+### Education
+IS
+
+### Work
