@@ -1,6 +1,7 @@
 # Data Analyt
 
 ### Education
-IS
+Bachelor of Business Administration - Management Information Systems (MIS)
 
 ### Work
+Production Control Data Analyst | Toyota Boshoku America
