@@ -1,6 +1,7 @@
 #Data Analyst
 
-WORK EXPERIENCE 
+##WORK EXPERIENCE 
+
 Production Control Data Analyst | Toyota Boshoku America, Jackson, TN 					07/2023 - Present 
 •	Streamlined manufacturing data collection processes for supply chain and quality procedures, resulting in a 40% reduction in data entry errors and a 25% increase in information accuracy. 
 •	Analyzed current inventory data and performance to make improvement on warehouse floor spaces. 
@@ -19,7 +20,8 @@ Patient Financial Specialist | West Tennessee Healthcare, Jackson, TN 					12/20
 •	Conducted detailed reviews of patient accounts to identify inconsistencies between charges and payments, proactively addressing outstanding balances and collections activities. 
 •	Responded promptly to billing inquiries from patients, offering comprehensive assistance regarding their accounts, and resolving any billing-related issues. 
 
-PROJECTS
+##PROJECTS
+
 Manufacturing Production Key Performance Indicator (KPI) | Toyota Boshoku America		Current
 Tools: Excel Power Query, Power BI (Dashboard, Measures, Calculated Fields)
 •	Developed and utilized a dashboard for tracking Year-To-Date (YTD) production and scrap units against targets.
@@ -40,11 +42,14 @@ Tools: Excel spreadsheet (Pivot Tables), Powerpoint
 •	Completed analyses in Excel to determine a covenant structure. 
 •	Prepared a 10-year financial model forecast. 
 
-EDUCATION 
-Bachelor of Business Administration - Management Information Systems (MIS)			 01/2021 – 12/2022 
+##EDUCATION 
+
+Bachelor of Business Administration - Management Information Systems (MIS)			 
 Middle Tennessee State University, Murfreesboro, TN GPA 3.4/4.0 
- 
-TECHNICAL SKILLS 
+01/2021 – 12/2022 
+
+##TECHNICAL SKILLS 
+
 •	Problem-Solving | Customer Service | Adaptability | Motivation  
 •	Data Analysis and Visualization | MS Office | SQL | Statistics | Spreadsheets | Pivot Table | MS Access
 •	Organizational Skills | Collaboration Skills | Computer Skills | Time Management | Strategy | Demand Forecasting 
